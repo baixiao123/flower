@@ -1,0 +1,116 @@
+<%@LANGUAGE="JAVASCRIPT" CODEPAGE="65001"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+#one a {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(../taobao/image/image1/menubg.gif);
+	background-repeat: no-repeat;
+	background-position: 0px -29px;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 29px;
+	width: 79px;
+	margin-right: 2px;
+	line-height: 25px;
+}
+#one li {
+	float: left;
+	list-style-type: none;
+}
+#one ul {
+	padding-left: 32px;
+}
+.td1 {
+	background-image: url(../taobao/image/image1/search-bg.gif);
+	background-repeat: repeat-x;
+	height: 60px;
+	line-height: 47px;
+	text-align: center;
+}
+.td2 {
+	text-align: center;
+}
+#one a:hover {
+	background-image: url(../taobao/image/image1/menubg.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+#123 a {
+	text-decoration: none;
+}
+#123 {
+	background-color: #CCCCCC;
+}
+a {
+	font-size: 12px;
+	line-height: 25px;
+}
+-->
+</style>
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+</head>
+
+<body>
+<table width="944" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="280" rowspan="2"><img src="../taobao/image/image1/logo.gif" width="230" height="67" /></td>
+    <td width="664" height="39">&nbsp;</td>
+  </tr>
+  <tr >
+    <td id="one"><ul>
+      <li><a href="#">鲜花</a></li>
+      <li><a href="#">蛋糕</a></li>
+      <li><a href="#">花朵</a></li>
+      <li><a href="#">节日</a></li>
+      <li><a href="#">花瓶</a></li>
+      <li><a href="#">礼品</a></li>
+      <li><a href="#">回赠</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="td1"><form id="form1" name="form1" method="post" action="">
+      <strong>鲜花快速搜索</strong>
+      <label>
+      <select name="select" id="select">
+        <option value="0">-所有分类-</option>
+        <option value="1">红花</option>
+        <option value="2">绿花</option>
+        <option value="3">粉花</option>
+        <option value="4">香花</option>
+      </select>
+      </label>
+            请输入关键字
+            <label>
+            <input name="textfield" type="text" id="textfield" size="18" />  
+            <input type="image" name="imageField" id="imageField" src="../taobao/image/image1/search.gif" />
+            </label>
+    </form>    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- TemplateBeginIf cond="OptionalRegion1" --><!-- TemplateBeginEditable name="EditRegion3" -->OptionalRegion1<!-- TemplateEndEditable --><!-- TemplateEndIf --></td>
+  </tr>
+  <tr>
+    <td height="44" colspan="2" class="td2"  id="123"><p><a href="#">产品目录 |</a><a href="#"> 联系我们 | </a><a href="#">关于我们 | </a><a href="#">常见问题 | </a><a href="#">安全问题 | </a><a href="#">购买流程 | </a><a href="#">如何付款 | </a><a href="#">有情连接</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="td2">五月鲜花礼品网&copy; 2001~2007 All reghts reserved <a href="#">京145529553</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="td2"><img src="../taobao/image/image1/end.gif" width="192" height="27" /></td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

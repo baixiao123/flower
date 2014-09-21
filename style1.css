@@ -1,0 +1,46 @@
+@charset "utf-8";
+td {
+	vertical-align: top;
+}
+.td10 {
+	background-image: url(image/image1/tab.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+	height: 33px;
+	width: 117px;
+}
+
+.td12 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+.td14 {
+	font-size: 14px;
+	color: #FFCC00;
+	font-weight: bold;
+}
+.td15 {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCCCCC;
+}
+.3td3 {	color: #CC3300;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: "新宋体";
+}
+.td16 {
+	border: 1px solid #009900;
+	width: 229px;
+}
+.td17 {
+	font-size: 15px;
+	font-weight: bold;
+	color: #333333;
+}
+.td18 {
+	font-size: 14px;
+	color: #666666;
+}

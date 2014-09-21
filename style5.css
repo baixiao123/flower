@@ -1,0 +1,77 @@
+@charset "utf-8";
+td {
+	vertical-align: top;
+}
+.green {
+	background-image: url(image/image1/c-bg.gif);
+	background-repeat: no-repeat;
+	font-family: "新宋体";
+	font-size: 12px;
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: bold;
+	background-position: 5px 3px;
+	padding-top: 5px;
+	height: 22px;
+}
+.color2 {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: line-through;
+}
+.boder1 {
+	border: 1px solid #00CCFF;
+	vertical-align: top;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.center {
+	text-align: center;
+}
+
+.color3 {
+	font-size: 12px;
+	color: #999999;
+}
+
+
+.yollw {
+	color: #FF9900;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.yollw:hover {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #666666;
+}
+
+
+
+.color {
+	font-family: "宋体";
+	font-size: 14px;
+	font-weight: bolder;
+	color: #CC3300;
+	text-decoration: none;
+}
+.color:hover {
+	font-size: 13px;
+	color: #FF9900;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF9900;
+	text-decoration: underline;
+}
+
+.boder {
+	border: 1px solid #339900;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.color1 {
+	font-size: 13px;
+	color: #999999;
+}
